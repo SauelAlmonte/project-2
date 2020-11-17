@@ -4,6 +4,17 @@
     box-sizing: border-box;
 }
 
+.header {
+    height: auto;
+    justify-content: inherit;
+    align-items: inherit;
+}
+
+.photo img {
+    width: 100%;
+    display: block;
+}
+
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
     body {
@@ -86,4 +97,9 @@
 }
 .content {
     order: 2;
+}
+
+.illustration img {
+    width: 100%;
+    display: block;
 }

@@ -11,10 +11,21 @@
 <div class='page'>
     <div class='section menu'></div>
     <div class='section header'>
-        <img src='images/header.svg'/>
+        <div class='photo'>
+            <picture>
+                <source media='(min-width: 401px)'
+                        srcset='images/photo-big.jpg'/>
+                <source media='(max-width: 400px)'
+                        srcset='images/photo-tall.jpg'/>
+                <img src='images/photo-small.jpg'/>
+            </picture>
+        </div>
     </div>
-    <div class='section content'>
-        <img src='images/content.svg'/>
+    <div class='illustration'>
+        <img src='illustration-small.png'
+             srcset='images/illustration-small.png 1x,
+               images/illustration-big.png 2x'
+             style='max-width: 500px'/>
     </div>
     <div class='section sign-up'>
         <img src='images/sign-up.svg'/>
