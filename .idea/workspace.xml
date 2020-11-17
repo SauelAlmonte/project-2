@@ -26,6 +26,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="semantic-html" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kPxlo130f69PtAhJWq1SbNKNre" />
@@ -51,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605616180725</updated>
-      <workItem from="1605616181845" duration="12510000" />
+      <workItem from="1605616181845" duration="12860000" />
     </task>
     <servers />
   </component>
@@ -71,5 +76,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1937" y="326" key="#Notifications" timestamp="1605635115735">
+      <screen x="1680" y="23" width="1920" height="1053" />
+    </state>
+    <state x="1937" y="326" key="#Notifications/1680.23.1920.1053/0.23.1680.1027@1680.23.1920.1053" timestamp="1605635115735" />
   </component>
 </project>
