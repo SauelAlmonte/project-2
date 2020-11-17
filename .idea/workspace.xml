@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424cd8b6-6c71-495b-988b-100294b21254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/images/absolute.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/images/awesome-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/images/fixed.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/images/relative.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/images/static.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/schemes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-positioning/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive-design/images/content.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive-design/images/feature.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive-design/images/header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive-design/images/sign-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive-design/responsive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responsive-design/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605616180725</updated>
-      <workItem from="1605616181845" duration="3469000" />
+      <workItem from="1605616181845" duration="4426000" />
     </task>
     <servers />
   </component>
