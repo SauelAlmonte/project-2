@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="424cd8b6-6c71-495b-988b-100294b21254" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web-typography/Roboto-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-typography/alignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-typography/history.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-typography/indents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-typography/ligature.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-typography/line-length.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-typography/spacing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-typography/typo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-typography/web-fonts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/speaker-submission.html" beforeDir="false" afterPath="$PROJECT_DIR$/forms/speaker-submission.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/forms/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +40,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kPxlo130f69PtAhJWq1SbNKNre" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -33,11 +62,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605616180725</updated>
-      <workItem from="1605616181845" duration="8854000" />
+      <workItem from="1605616181845" duration="9908000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
