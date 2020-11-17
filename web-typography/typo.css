@@ -1,6 +1,22 @@
 @font-face {
   font-family: 'Roboto';
   src: url('Roboto-Light-webfont.woff') format('woff');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('Roboto-LightItalic-webfont.woff') format('woff');
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('Roboto-Bold-webfont.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
 }
 
 * {
@@ -203,4 +219,18 @@ nav a:visited:active {
   nav li:nth-of-type(2n) {
     border-left: none;
   }
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  /* ... */
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;  /* Or 700 */
 }

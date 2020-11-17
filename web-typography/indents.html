@@ -46,6 +46,15 @@
       <p>We find that using a bottom margin makes it a little easier to scan a web
       page, while indents give more of a narrative or newspaper-y feel.</p>
     </section>
+    <style>
+      .paragraph-indent p {
+        text-indent: 1em;
+        margin-bottom: 0;
+      }
+      .paragraph-indent p:first-of-type {
+        text-indent: 0;
+      }
+    </style>
 
     <section class='section section--red never-both'>
       <h2>But Never Both</h2>
